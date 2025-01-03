@@ -1,6 +1,6 @@
 {
   "name": "360ksiegowosc-node",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "360ksiegowosc node api client",
   "type": "module",
   "main": "index.js",
