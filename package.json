@@ -5,6 +5,7 @@
   "type": "module",
   "main": "index.js",
   "types": "index.d.ts",
+  "homepage": "https://github.com/fedyk/360ksiegowosc-node#readme",
   "engines": {
     "node": ">=18.x"
   },
@@ -22,7 +23,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@types/node": "^22.10.5",
-    "typescript": "^5.7.2"
+    "@types/node": "^24.10.1",
+    "typescript": "^5.9.3"
   }
 }
