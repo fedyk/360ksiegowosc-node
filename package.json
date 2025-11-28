@@ -18,7 +18,8 @@
     "prepublishOnly": "npm run build && npm run test",
     "build": "tsc",
     "watch": "tsc --watch",
-    "test": "node --test"
+    "test": "node --test test.js",
+    "spec": "node --test spec.js"
   },
   "author": "",
   "license": "ISC",
